@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @onepalebluedot
 - 👀 I’m interested in soccer, watching tv shows and movies, being a good parent
-- 🌱 I’m currently learning python and basic programming
+- 🌱 I’m currently learning python and building apps with AI.
